@@ -1,0 +1,4 @@
+{
+  "fieldnames": ["maalaji", "value", "X", "Y", "Z", "nro", "korko"],
+  "header_row": ["piste", "X", "Y", "Z", "formation"]
+}

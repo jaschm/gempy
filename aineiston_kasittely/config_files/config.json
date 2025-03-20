@@ -1,0 +1,46 @@
+{
+  "entry": {
+      "OM": "",
+      "Or": "",
+      "TY": "",
+      "TT": "",
+      "X": "",
+      "Y": "",
+      "Z": "",
+      "pvm": "",
+      "nro": "",
+      "AL": "",
+      "KL": "",
+      "SA": [],
+      "Si": [],
+      "KI": [],
+      "Sa": [],
+      "liSa": [],
+      "Hk": [],
+      "Sr": [],
+      "SrMr": [],
+      "Ki": [],
+      "Mr": [],
+      "Hksa": [],
+      "Sasi": [],
+      "Srmr": [],
+      "Hksr": [],
+      "Ka": [],
+      "Paattymissyvyys": ""
+  },
+  "start_keys": ["OM", "Or", "TY", "TT", "AL", "KL"],
+  "line_keys": ["SA", "Si", "KI", "Sa", "liSa", "Hk", "Sr", "SrMr", "Ki", "Mr", "Ka", "Hksa", "Sasi", "Srmr", "Hksr"],
+  "column_names": ["PO", "OM", "Or", "TY", "TT", "X", "Y", "Z", "pvm", "nro", "AL", "KL", "SA", "Si", "KI", "Sa", "liSa", "Hk", "Sr", "SrMr", "Ki", "Mr", "Hksa", "Sasi", "Srmr", "Hksr", "Ka", "Paattymissyvyys"],
+  "fieldnames": ["maalaji", "value", "OM", "Or", "TY", "TT", "X", "Y", "Z", "pvm", "nro", "AL", "KL", "korko"],
+  "header_row": ["piste", "X", "Y", "Z", "formation"],
+  "alias_map": {
+    "liSa": "Sa",
+    "SrMr": "Mr",
+    "HkSr": "Mr",
+    "Hksr": "Mr",
+    "Hksa": "Sa",
+    "Sasi": "Sa"
+
+  }
+
+}
